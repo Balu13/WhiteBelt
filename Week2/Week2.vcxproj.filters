@@ -18,5 +18,8 @@
     <ClCompile Include="countries.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="busStop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main()
+int countries()
 {
 	int commandNum;
 	cin >> commandNum;
@@ -98,8 +98,8 @@ int main()
 		}
 	}
 
-	//cin.clear();
-	//cin.ignore(32767, '\n');
-	//cin.get();
+	cin.clear();
+	cin.ignore(32767, '\n');
+	cin.get();
 	return 0;
 }
