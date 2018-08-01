@@ -21,5 +21,8 @@
     <ClCompile Include="busStop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="busStop2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

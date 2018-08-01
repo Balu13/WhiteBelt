@@ -20,7 +20,7 @@ int printVector(const vector<string>& vec, const string exclusion)
 	return printedCount;
 }
 
-int main()
+int busStop()
 {
 	int commandNum;
 	cin >> commandNum;
@@ -104,4 +104,5 @@ int main()
 		}
 	}
 
+	return 0;
 }
