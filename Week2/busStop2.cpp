@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main()
+int busStop2()
 {
 	int commandNum;
 	cin >> commandNum;

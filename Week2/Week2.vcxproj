@@ -147,6 +147,7 @@
     <ClCompile Include="busStop.cpp" />
     <ClCompile Include="busStop2.cpp" />
     <ClCompile Include="countries.cpp" />
+    <ClCompile Include="uniqueStrings.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
