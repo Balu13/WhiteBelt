@@ -32,8 +32,7 @@ int main()
 			string first, second;
 			cin >> first >> second;
 
-			set<string> values = sinonyms[first];
-			if (sinonyms[first].count(second) == 0 && sinonyms[second].count(first) == 0)
+			if (sinonyms[first].count(second) == 0)
 			{
 				cout << "NO";
 			}
