@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main()
+int sinonyms()
 {
 	int commandNum;
 	cin >> commandNum;

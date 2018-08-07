@@ -146,6 +146,7 @@
   <ItemGroup>
     <ClCompile Include="busStop.cpp" />
     <ClCompile Include="busStop2.cpp" />
+    <ClCompile Include="busStop3.cpp" />
     <ClCompile Include="countries.cpp" />
     <ClCompile Include="sinonyms.cpp" />
     <ClCompile Include="uniqueStrings.cpp" />
