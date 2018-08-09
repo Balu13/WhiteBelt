@@ -18,5 +18,8 @@
     <ClCompile Include="modulusSort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stringSort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
